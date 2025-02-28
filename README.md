@@ -1,8 +1,6 @@
-# Take Home Interview Project
-
 ### To Run
 
-1. navigate to project folder satalite-downtime-webtool (accidently named it that)
+1. navigate to project folder satalite-downtime-webtool
 2. run 'npm i' to install node_modules
 3. run 'npm start' to start the application
 
